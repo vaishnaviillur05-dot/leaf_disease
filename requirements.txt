@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+keras
+opencv_python_headless
+gdown
+ipykernel
+
+import 

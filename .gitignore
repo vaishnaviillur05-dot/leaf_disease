@@ -1,0 +1,3 @@
+.venv
+data
+trained_plant_disease_modelgit init.keras
